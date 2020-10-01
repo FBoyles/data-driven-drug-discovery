@@ -1,0 +1,8 @@
+chembl_id,standard_value,standard_relation,standard_type,pchembl_value,molregno,canonical_smiles
+CHEMBL573337,3400,=,IC50,5.47,570093,C/C(=C\COP(=O)(O)OP(=O)(O)O)COCc1cccc(C(=O)c2ccccc2)c1
+CHEMBL573337,610,=,Ki,6.21,570093,C/C(=C\COP(=O)(O)OP(=O)(O)O)COCc1cccc(C(=O)c2ccccc2)c1
+CHEMBL572404,720,=,IC50,6.14,570099,C/C(=C\COP(=O)(O)OP(=O)(O)O)CC/C=C(\C)COC(=O)C(=[N+]=[N-])C(F)(F)F
+CHEMBL572404,200,=,Ki,6.7,570099,C/C(=C\COP(=O)(O)OP(=O)(O)O)CC/C=C(\C)COC(=O)C(=[N+]=[N-])C(F)(F)F
+CHEMBL575408,5800,=,IC50,5.24,570103,CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)Cc1cccc(C(=O)c2ccccc2)c1
+CHEMBL575827,3000,=,IC50,5.52,570088,CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)Cc1ccc(C(=O)c2ccccc2)cc1
+CHEMBL575827,480,=,Ki,6.32,570088,CC(C)=CCC/C(C)=C/CC/C(C)=C/COP(=O)(O)OP(=O)(O)Cc1ccc(C(=O)c2ccccc2)cc1
